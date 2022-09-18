@@ -1,0 +1,26 @@
+{
+  "name": "bbas",
+  "version": "0.0.1",
+  "description": "apple sauce runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/starlafreyscott/bbas.git"
+  },
+  "keywords": [
+    "apple",
+    "sauce",
+    "beep",
+    "boop"
+  ],
+  "author": "Starla",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/starlafreyscott/bbas/issues"
+  },
+  "homepage": "https://github.com/starlafreyscott/bbas#readme"
+}
